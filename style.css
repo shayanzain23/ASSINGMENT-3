@@ -1,0 +1,156 @@
+.duction{
+    font-family: 'Merriweather', serif;
+    color: green;
+    background: whitesmoke;
+    font-size: 40px;
+}
+.intro{
+    font-family: 'Merriweather', serif;
+    background: whitesmoke;
+    color: #1E90FF;
+    font-size: 40px;
+}
+h2{
+    text-align: center;
+}
+.logo{
+    background: whitesmoke;
+    text-align: center;
+}
+.monthly{
+    font-size: 20px;
+    background-color: #0000FF;
+    color: whitesmoke;
+}
+.row{
+    background-color: #0000FF;
+}
+.box{
+    padding: 20px;
+    font-size: 16px;
+    text-align: center;
+    justify-content: space-between;
+}
+.mon{
+    color: greenyellow;
+    font-size: 25px;
+    font-family: 'Merriweather', serif;
+}
+.num{
+    font-family: 'Merriweather', serif;
+    font-size: 50px;
+}
+.star{
+    font-family: 'Merriweather', serif;
+    font-size: 15x;
+}
+ .row{
+    display: flex;
+    justify-content: space-between;
+} 
+.what{
+    font-family: 'Merriweather', serif;
+    color:#1E90FF;
+    text-align: center;
+    font-size: 40px;
+}
+.doing{
+    font-family: 'Merriweather', serif;
+    color: green;
+    text-align: center;
+    font-size: 40px;
+}
+.line{
+    background: whitesmoke;
+    color: green;
+}
+.column{
+    background: whitesmoke;
+}
+.sadqah{
+    background: white;
+    color: blue;
+    padding: 50px;
+    box-shadow: 0px 0px 25px grey ;
+    margin: 15px;
+    border: 10px;
+    display: inline-block;
+    height:199px;
+    width: 30.8%;
+    text-align: center;
+    align-content: center;
+    justify-content: space-around;
+    font-family: 'Merriweather', serif;
+}
+.missions{
+    font-family: 'Merriweather', serif;
+    color: blue;
+    font-size: 30px;
+}
+.white{
+    color: white;
+}
+.line2{
+    color: green;
+}
+.hepatitis{
+    display: inline-block;
+    box-shadow: 0px 0px 2px whitesmoke ;
+    padding: 50px;  
+    margin: 15px;
+    width: 300px;
+    height: 100px;
+    border-color:  black;
+    border: 20px;
+    text-align: initial;
+    background-color: whitesmoke;
+}
+.image{
+    color: blue;
+    background-color: white;
+    font-size:30px ;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+.gallery{
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    color: green;
+    font-size:30px ;
+}
+.line5{
+    color: green;
+}
+.images{
+    display: inline-block;
+}
+.last{
+    background-color: black;
+    color: #666666;
+    display: inline-block;
+}
+.introduction{
+    text-align: justify;
+    margin: 50px;
+    color: gray;
+    background-color: whitesmoke;
+}
+.cell{
+    background-color: brown;
+}
+.bg-primary{
+    color: white;
+}
+.none{
+    color: black;
+}
+.copy{
+    color: cornflowerblue;
+}
+h5{
+    color: white;
+    background: black;
+}
+.dropright-menu{
+    display: none;
+}
